@@ -1,12 +1,12 @@
 # Win11-Classic-ContextMenu | win11改win10经典右键菜单
-Introduction 介绍
+**Introduction 介绍**
 
 Two independent batch scripts to toggle between Win11 default compact right-click menuand Win10 classic full context menu.
 
 两套独立批处理脚本，一键切换 Win11 默认精简右键菜单 / Win10 经典完整右键菜单。
 
 
-Important Notes 注意事项
+**Important Notes 注意事项**
 
 1. Only modify current user registry.
 
@@ -25,8 +25,13 @@ Important Notes 注意事项
     杀毒软件可能拦截注册表操作，请允许运行
 
 
-License 协议
+**License 协议**
 
 This project is open source under the **MIT License**.
 
 本项目基于 MIT 开源协议
+
+
+**Download main.zip and use it!**
+
+**下载 main.zip 然后使用！**
